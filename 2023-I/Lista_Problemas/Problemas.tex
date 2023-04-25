@@ -164,5 +164,25 @@ donde $R=6371km$ es el radio de la tierra y, $\phi$ y  $\lambda$ son las coorden
 \item Bogotá se encuentrá ubicada aproximadamente entre $3^{\circ}$ y $4^{\circ}$ de latitud, y entre $-73^{\circ}$ y $-74^{\circ}$ de longitud. Determine la distancia $\Delta x=|x(\lambda=-74^{\circ})-x(\lambda=-73^{\circ})|$ y la distancia\\
 \noindent $\Delta y=|y(\phi=4^{\circ})-y(\phi=3^{\circ})|$. Compare estas distancias con la extensión de bogotá.
 \end{enumerate}
+
+\item La matriz de covarianza $\Sigma$ entre $N$ variables físicas $X_{1},X_{2},\cdots, X_{N}$ se define por:
+
+\begin{align*}
+\Sigma(X_{1},X_{2},\cdots, X_{N})&=\left[\begin{matrix}
+Var(X_{1}) & Cov(X_{1},X_{2}) & \cdots & Cov(X_{1},X_{N})\\
+Cov(X_{2},X_{1}) & Var(X_{2}) & \cdots & Cov(X_{2},X_{N})\\
+\vdots & \vdots & \ddots & \vdots \\
+Cov(X_{n},X_{1}) & Cov(X_{n},X_{2}) & \cdots & Var(X_{N})
+\end{matrix}\right]
+\end{align*}
+
+\noindent donde\footnote{En las definiciones de la varianza y covarianza, el simbolo $E(X)$ representa el valor promedio de la variable física $X$.} $Var(X_{i})=E(X_{i}^2)-E(X_{i})^2$ es la varianza de la variable $X_{i}$ y $Cov(X_{i},X_{j})=E(X_{i}\cdot X_{j})-E(X_{i})E(X_{j})$ es la covarianza entre las variables $X_{i}$ y $X_{j}$. Cada variable $X_{i}$ en este contexto corresponde a un conjunto de medidas de variables físicas de algún sistema como lo pueden ser la temperatura del aire, humedad relativa del ambiente, el pH del suelo, entre otros. Teniendo en cuenta está información: 
+
+\begin{enumerate}
+\item ¿Qué unidades físicas tiene la varianza y la covarianza entre dos variables? (de ejemplos)
+\item ¿Cuál es la interpretación de la varianza y la covarianza entre dos variables?
+\item 
+\end{enumerate}
+asdasda
 \end{enumerate}
 \end{document}
