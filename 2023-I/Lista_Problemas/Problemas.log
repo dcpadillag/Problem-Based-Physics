@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.1.21)  24 APR 2023 23:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.1.21)  25 APR 2023 00:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -365,14 +365,14 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
 <problema_3.png, id=1, 287.0725pt x 389.455pt>
 File: problema_3.png Graphic file (type png)
 <use problema_3.png>
-Package pdftex.def Info: problema_3.png  used on input line 52.
+Package pdftex.def Info: problema_3.png  used on input line 54.
 (pdftex.def)             Requested size: 114.82695pt x 155.77924pt.
 [1
 
@@ -380,17 +380,17 @@ Package pdftex.def Info: problema_3.png  used on input line 52.
 <problema_4.png, id=15, 220.825pt x 261.97874pt>
 File: problema_4.png Graphic file (type png)
 <use problema_4.png>
-Package pdftex.def Info: problema_4.png  used on input line 61.
+Package pdftex.def Info: problema_4.png  used on input line 63.
 (pdftex.def)             Requested size: 88.32843pt x 104.78964pt.
 <problema_5.png, id=16, 242.9075pt x 192.72pt>
 File: problema_5.png Graphic file (type png)
 <use problema_5.png>
-Package pdftex.def Info: problema_5.png  used on input line 69.
+Package pdftex.def Info: problema_5.png  used on input line 71.
 (pdftex.def)             Requested size: 121.45345pt x 96.35976pt.
 <problema_6.png, id=17, 346.29375pt x 163.61125pt>
 File: problema_6.png Graphic file (type png)
 <use problema_6.png>
-Package pdftex.def Info: problema_6.png  used on input line 77.
+Package pdftex.def Info: problema_6.png  used on input line 79.
 (pdftex.def)             Requested size: 173.14644pt x 81.80542pt.
 
 
@@ -405,18 +405,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <problema_7a.png, id=25, 114.4275pt x 208.78pt>
 File: problema_7a.png Graphic file (type png)
 <use problema_7a.png>
-Package pdftex.def Info: problema_7a.png  used on input line 86.
+Package pdftex.def Info: problema_7a.png  used on input line 88.
 (pdftex.def)             Requested size: 57.21361pt x 104.38972pt.
 <problema_7b.png, id=26, 134.5025pt x 197.73875pt>
 File: problema_7b.png Graphic file (type png)
 <use problema_7b.png>
-Package pdftex.def Info: problema_7b.png  used on input line 86.
+Package pdftex.def Info: problema_7b.png  used on input line 88.
 (pdftex.def)             Requested size: 67.25107pt x 98.86913pt.
-<problema_8.png, id=27, 522.95375pt x 262.9825pt>
-File: problema_8.png Graphic file (type png)
-<use problema_8.png>
-Package pdftex.def Info: problema_8.png  used on input line 101.
-(pdftex.def)             Requested size: 261.47623pt x 131.49092pt.
+<problema_10a.png, id=27, 386.44376pt x 314.17375pt>
+File: problema_10a.png Graphic file (type png)
+<use problema_10a.png>
+Package pdftex.def Info: problema_10a.png  used on input line 104.
+(pdftex.def)             Requested size: 115.93402pt x 94.25284pt.
+<problema_10b.png, id=28, 258.9675pt x 136.51pt>
+File: problema_10b.png Graphic file (type png)
+<use problema_10b.png>
+Package pdftex.def Info: problema_10b.png  used on input line 107.
+(pdftex.def)             Requested size: 129.48341pt x 68.25482pt.
+<problema_10c.png, id=29, 248.93pt x 134.5025pt>
+File: problema_10c.png Graphic file (type png)
+<use problema_10c.png>
+Package pdftex.def Info: problema_10c.png  used on input line 107.
+(pdftex.def)             Requested size: 124.46469pt x 67.25107pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -426,33 +436,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.54448pt}.
 
-[3 <./problema_6.png> <./problema_7a.png> <./problema_7b.png> <./problema_8.png
->]
-<problema_10a.png, id=36, 386.44376pt x 314.17375pt>
-File: problema_10a.png Graphic file (type png)
-<use problema_10a.png>
-Package pdftex.def Info: problema_10a.png  used on input line 118.
-(pdftex.def)             Requested size: 115.93402pt x 94.25284pt.
-<problema_10b.png, id=37, 258.9675pt x 136.51pt>
-File: problema_10b.png Graphic file (type png)
-<use problema_10b.png>
-Package pdftex.def Info: problema_10b.png  used on input line 121.
-(pdftex.def)             Requested size: 129.48341pt x 68.25482pt.
-<problema_10c.png, id=38, 248.93pt x 134.5025pt>
-File: problema_10c.png Graphic file (type png)
-<use problema_10c.png>
-Package pdftex.def Info: problema_10c.png  used on input line 121.
-(pdftex.def)             Requested size: 124.46469pt x 67.25107pt.
-<problema_11.png, id=39, 292.09125pt x 164.615pt>
+[3 <./problema_6.png> <./problema_7a.png> <./problema_7b.png>]
+<problema_11.png, id=37, 292.09125pt x 164.615pt>
 File: problema_11.png Graphic file (type png)
 <use problema_11.png>
-Package pdftex.def Info: problema_11.png  used on input line 132.
+Package pdftex.def Info: problema_11.png  used on input line 118.
 (pdftex.def)             Requested size: 146.04526pt x 82.3073pt.
-<problema_12.png, id=40, 445.665pt x 222.8325pt>
-File: problema_12.png Graphic file (type png)
-<use problema_12.png>
-Package pdftex.def Info: problema_12.png  used on input line 141.
-(pdftex.def)             Requested size: 178.26283pt x 89.13141pt.
+<problema_8.png, id=38, 522.95375pt x 262.9825pt>
+File: problema_8.png Graphic file (type png)
+<use problema_8.png>
+Package pdftex.def Info: problema_8.png  used on input line 137.
+(pdftex.def)             Requested size: 261.47623pt x 131.49092pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -464,6 +458,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4 <./problema_10a.png> <./problema_10b.png> <./problema_10c.png> <./problema_1
 1.png>]
+<problema_12.png, id=46, 445.665pt x 222.8325pt>
+File: problema_12.png Graphic file (type png)
+<use problema_12.png>
+Package pdftex.def Info: problema_12.png  used on input line 152.
+(pdftex.def)             Requested size: 178.26283pt x 89.13141pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.54448pt, for example:
@@ -472,18 +472,42 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.54448pt}.
 
-[5 <./problema_12.png>] (./Problemas.aux
+[5 <./problema_8.png> <./problema_12.png>]
+<planta.jpg, id=54, 606.265pt x 441.65pt>
+File: planta.jpg Graphic file (type jpg)
+<use planta.jpg>
+Package pdftex.def Info: planta.jpg  used on input line 193.
+(pdftex.def)             Requested size: 181.8809pt x 132.49602pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.54448pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.54448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.54448pt}.
+
+[6 <./planta.jpg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.54448pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.54448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.54448pt}.
+
+[7] (./Problemas.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 5373 strings out of 478287
- 82975 string characters out of 5849289
- 406420 words of memory out of 5000000
- 23505 multiletter control sequences out of 15000+600000
+ 5388 strings out of 478287
+ 83161 string characters out of 5849289
+ 410437 words of memory out of 5000000
+ 23518 multiletter control sequences out of 15000+600000
  478388 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,19n,62p,701b,498s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,19n,62p,701b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/te
@@ -499,10 +523,10 @@ b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Problemas.pdf (5 pages, 635242 bytes).
+Output written on Problemas.pdf (7 pages, 688680 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
+ 134 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
