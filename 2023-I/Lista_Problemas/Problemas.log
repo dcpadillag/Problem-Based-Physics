@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.1.21)  25 APR 2023 00:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.1.23)  25 APR 2023 16:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -142,6 +142,12 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks26
+\verbatim@line=\toks27
+\verbatim@in@stream=\read3
+)
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -169,20 +175,20 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count277
-\float@exts=\toks26
+\float@exts=\toks28
 \float@box=\box52
-\@float@everytoks=\toks27
+\@float@everytoks=\toks29
 \@floatcapt=\box53
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks28
+\@enLab=\toks30
 )
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip52
 \enit@outerparindent=\dimen159
-\enit@toks=\toks29
+\enit@toks=\toks31
 \enit@inbox=\box54
 \enit@count@id=\count278
 \enitdp@description=\count279
@@ -280,20 +286,20 @@ LaTeX Info: Redefining \% on input line 8.
 )
 \openout1 = `Problemas.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -329,8 +335,8 @@ LaTeX Font Info:    ... okay on input line 27.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count291
@@ -338,12 +344,12 @@ LaTeX Info: Redefining \% on input line 27.
 \scratchbox=\box101
 \nofMPsegments=\count292
 \nofMParguments=\count293
-\everyMPshowfont=\toks30
+\everyMPshowfont=\toks32
 \MPscratchCnt=\count294
 \MPscratchDim=\dimen170
 \MPnumerator=\count295
 \makeMPintoPDFobject=\count296
-\everyMPtoPDFconversion=\toks31
+\everyMPtoPDFconversion=\toks33
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -353,26 +359,26 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
  []
 
 <problema_3.png, id=1, 287.0725pt x 389.455pt>
 File: problema_3.png Graphic file (type png)
 <use problema_3.png>
-Package pdftex.def Info: problema_3.png  used on input line 54.
+Package pdftex.def Info: problema_3.png  used on input line 55.
 (pdftex.def)             Requested size: 114.82695pt x 155.77924pt.
 [1
 
@@ -380,53 +386,18 @@ Package pdftex.def Info: problema_3.png  used on input line 54.
 <problema_4.png, id=15, 220.825pt x 261.97874pt>
 File: problema_4.png Graphic file (type png)
 <use problema_4.png>
-Package pdftex.def Info: problema_4.png  used on input line 63.
+Package pdftex.def Info: problema_4.png  used on input line 64.
 (pdftex.def)             Requested size: 88.32843pt x 104.78964pt.
-<problema_5.png, id=16, 242.9075pt x 192.72pt>
-File: problema_5.png Graphic file (type png)
-<use problema_5.png>
-Package pdftex.def Info: problema_5.png  used on input line 71.
-(pdftex.def)             Requested size: 121.45345pt x 96.35976pt.
-<problema_6.png, id=17, 346.29375pt x 163.61125pt>
-File: problema_6.png Graphic file (type png)
-<use problema_6.png>
-Package pdftex.def Info: problema_6.png  used on input line 79.
-(pdftex.def)             Requested size: 173.14644pt x 81.80542pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.54448pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.54448pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.54448pt}.
-
-[2 <./problema_3.png> <./problema_4.png> <./problema_5.png>]
-<problema_7a.png, id=25, 114.4275pt x 208.78pt>
+<problema_7a.png, id=16, 114.4275pt x 208.78pt>
 File: problema_7a.png Graphic file (type png)
 <use problema_7a.png>
-Package pdftex.def Info: problema_7a.png  used on input line 88.
+Package pdftex.def Info: problema_7a.png  used on input line 91.
 (pdftex.def)             Requested size: 57.21361pt x 104.38972pt.
-<problema_7b.png, id=26, 134.5025pt x 197.73875pt>
+<problema_7b.png, id=17, 134.5025pt x 197.73875pt>
 File: problema_7b.png Graphic file (type png)
 <use problema_7b.png>
-Package pdftex.def Info: problema_7b.png  used on input line 88.
+Package pdftex.def Info: problema_7b.png  used on input line 91.
 (pdftex.def)             Requested size: 67.25107pt x 98.86913pt.
-<problema_10a.png, id=27, 386.44376pt x 314.17375pt>
-File: problema_10a.png Graphic file (type png)
-<use problema_10a.png>
-Package pdftex.def Info: problema_10a.png  used on input line 104.
-(pdftex.def)             Requested size: 115.93402pt x 94.25284pt.
-<problema_10b.png, id=28, 258.9675pt x 136.51pt>
-File: problema_10b.png Graphic file (type png)
-<use problema_10b.png>
-Package pdftex.def Info: problema_10b.png  used on input line 107.
-(pdftex.def)             Requested size: 129.48341pt x 68.25482pt.
-<problema_10c.png, id=29, 248.93pt x 134.5025pt>
-File: problema_10c.png Graphic file (type png)
-<use problema_10c.png>
-Package pdftex.def Info: problema_10c.png  used on input line 107.
-(pdftex.def)             Requested size: 124.46469pt x 67.25107pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -436,32 +407,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.54448pt}.
 
-[3 <./problema_6.png> <./problema_7a.png> <./problema_7b.png>]
-<problema_11.png, id=37, 292.09125pt x 164.615pt>
-File: problema_11.png Graphic file (type png)
-<use problema_11.png>
-Package pdftex.def Info: problema_11.png  used on input line 118.
-(pdftex.def)             Requested size: 146.04526pt x 82.3073pt.
-<problema_8.png, id=38, 522.95375pt x 262.9825pt>
+[2 <./problema_3.png> <./problema_4.png> <./problema_7a.png> <./problema_7b.png
+>]
+<problema_8.png, id=27, 522.95375pt x 262.9825pt>
 File: problema_8.png Graphic file (type png)
 <use problema_8.png>
-Package pdftex.def Info: problema_8.png  used on input line 134.
+Package pdftex.def Info: problema_8.png  used on input line 139.
 (pdftex.def)             Requested size: 261.47623pt x 131.49092pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.54448pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.54448pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.54448pt}.
-
-[4 <./problema_10a.png> <./problema_10b.png> <./problema_10c.png> <./problema_1
-1.png>]
-<problema_12.png, id=46, 445.665pt x 222.8325pt>
+<problema_12.png, id=28, 445.665pt x 222.8325pt>
 File: problema_12.png Graphic file (type png)
 <use problema_12.png>
-Package pdftex.def Info: problema_12.png  used on input line 149.
+Package pdftex.def Info: problema_12.png  used on input line 154.
 (pdftex.def)             Requested size: 178.26283pt x 89.13141pt.
 
 
@@ -472,11 +428,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.54448pt}.
 
-[5 <./problema_8.png> <./problema_12.png>]
-<planta.jpg, id=53, 606.265pt x 441.65pt>
+[3 <./problema_8.png> <./problema_12.png>]
+<planta.jpg, id=34, 606.265pt x 441.65pt>
 File: planta.jpg Graphic file (type jpg)
 <use planta.jpg>
-Package pdftex.def Info: planta.jpg  used on input line 192.
+Package pdftex.def Info: planta.jpg  used on input line 197.
 (pdftex.def)             Requested size: 181.8809pt x 132.49602pt.
 
 
@@ -487,7 +443,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.54448pt}.
 
-[6 <./planta.jpg>]
+[4 <./planta.jpg>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.54448pt, for example:
@@ -496,37 +452,41 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.54448pt}.
 
-[7] (./Problemas.aux
+[5] (./Problemas.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
-) ) 
+)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
  5388 strings out of 478287
- 83161 string characters out of 5849289
- 409437 words of memory out of 5000000
- 23518 multiletter control sequences out of 15000+600000
+ 83289 string characters out of 5849289
+ 409095 words of memory out of 5000000
+ 23522 multiletter control sequences out of 15000+600000
  478388 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,19n,62p,701b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Problemas.pdf (7 pages, 688655 bytes).
+ 55i,16n,62p,680b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Problemas.pdf (5 pages, 467225 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
+ 114 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
